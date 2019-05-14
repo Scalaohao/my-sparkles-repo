@@ -34,7 +34,7 @@ steps:
                   # you can execute multiple actions in the `before` block
     right: Add name to README
   - type: respond
-  #   option:
+    with: pr-opened.md
   #
   # - type:
   #   option:
