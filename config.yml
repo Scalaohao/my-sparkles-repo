@@ -30,7 +30,7 @@ steps:
   event: pull_request.opened
   actions:
   - type: gate
-                  # some actions require additional options, those should appear below `type:`
+    left: '%payload.pull_request.title%'
                   # you can execute multiple actions in the `before` block
                   #
   # - type:
