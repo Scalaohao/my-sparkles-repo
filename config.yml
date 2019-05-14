@@ -33,7 +33,7 @@ steps:
     left: '%payload.pull_request.title%'
                   # you can execute multiple actions in the `before` block
     right: Add name to README
-  # - type:
+  - type: respond
   #   option:
   #
   # - type:
