@@ -25,7 +25,7 @@ before:
 # Create one step for each action that a learner will complete
 
 steps:
-- title:          # the title of the step, shown to the learner in the course progress page
+- title: Create a new PR
   description:    # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
   event:          # a list of the actions that will occur when the step is triggered by an event
   actions:
