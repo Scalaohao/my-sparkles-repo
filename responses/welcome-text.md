@@ -22,11 +22,11 @@ Add a title **Add my name to README**
 
 A short description of the change you made **Add my name, use emoji**
 
-__Create pull request__
+_Create pull request_
 
-__Merge pull request__
+_Merge pull request_
 
-__Delete branche__
+_Delete branche_
 
 
 **Celebrate** :tada: :confetti_ball: :balloon:
