@@ -18,7 +18,7 @@ On top :arrow_up: click on the green compare button near **add-my-name**
 
 Add a title **Add my name to README**
 
-A short description of the change you made _Add my name, use emoji, create a branch & create a pull request_
+A short description of the change you made *Add my name, use emoji, create a branch & create a pull request*
 
 Create pull request
 
