@@ -16,7 +16,9 @@ Propose file change
 
 On top :arrow_up: click on the compare button near "add-my-name"
 
-Add a title and a short description of the change you made
+Add a title "Add my name to README"
+
+A short description of the change you made "Add my name, use emoji, create a branch & create a pull request"
 
 Create pull request
 
