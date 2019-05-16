@@ -20,13 +20,16 @@ On top :arrow_up: click on the green compare button near **add-my-name**
 
 Add a title **Add my name to README**
 
-A short description of the change you made **Add my name, use emoji, create a branch & create a pull request**
+A short description of the change you made **Add my name, use emoji**
 
-Create pull request
+**Create pull request**
 
-Merge pull request
+**Merge pull request**
 
-Celebrate :tada: :confetti_ball: :balloon:
+**Delete branche**
+
+
+**Celebrate** :tada: :confetti_ball: :balloon:
 
 
 https://help.github.com/en/articles/creating-a-pull-request
