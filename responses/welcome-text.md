@@ -2,7 +2,9 @@ Hey **welcome** to my amazing course !
 
 Today we are going to add **your** _name_ to README file
 
-Click on the grey pencil :pencil2:
+Inside <>code tab click on the README.md file
+
+Click on the grey pencil top right :pencil2:
 
 Replace _Your Name Here_ with **your name** & some **emoji** :elephant:
 
