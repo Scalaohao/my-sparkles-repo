@@ -10,9 +10,9 @@ Replace _Your Name Here_ with **your name** & some **emoji** :elephant:
 
 Scroll down :arrow_down:
 
-Select _"Create a new branch for this commit and start a pull request."_
+Select _"Create a new branche for this commit and start a pull request."_
 
-Rename the branch **add-my-name**
+Rename the branche **add-my-name**
 
 Propose file change
 
@@ -26,7 +26,7 @@ Create pull request
 
 Merge pull request
 
-Delete branch
+Delete branche
 
 Celebrate :tada: :confetti_ball: :balloon:
 
