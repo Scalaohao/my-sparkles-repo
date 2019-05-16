@@ -16,8 +16,6 @@ Rename the branch **add-my-name**
 
 Propose file change
 
-On top :arrow_up: click on the green compare button near **add-my-name**
-
 Add a title **Add my name to README**
 
 A short description of the change you made **Add my name, use emoji**
@@ -25,8 +23,6 @@ A short description of the change you made **Add my name, use emoji**
 _Create pull request_
 
 _Merge pull request_
-
-_Delete branche_
 
 
 **Celebrate** :tada: :confetti_ball: :balloon:
