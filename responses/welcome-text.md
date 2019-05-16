@@ -26,6 +26,8 @@ Create pull request
 
 Merge pull request
 
+Delete branch
+
 Celebrate :tada: :confetti_ball: :balloon:
 
 
