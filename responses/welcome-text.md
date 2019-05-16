@@ -14,7 +14,7 @@ Rename the branch **add-my-name**
 
 Propose file change
 
-On top :arrow_up: click on the compare button near **add-my-name**
+On top :arrow_up: click on the green compare button near **add-my-name**
 
 Add a title **Add my name to README**
 
