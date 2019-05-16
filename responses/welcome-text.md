@@ -14,7 +14,11 @@ Rename the branch "add-my-name"
 
 Propose file change
 
-Create pull request against the master branch
+On top :arrow_up: click on the compare button near "add-my-name"
+
+Add a title and a short description of the change you made
+
+Create pull request
 
 Celebrate :tada: :confetti_ball: :balloon:
 
