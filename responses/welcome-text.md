@@ -22,6 +22,8 @@ A short description of the change you made **Add my name, use emoji, create a br
 
 Create pull request
 
+Merge pull request
+
 Celebrate :tada: :confetti_ball: :balloon:
 
 
