@@ -10,15 +10,15 @@ Scroll down :arrow_down:
 
 Select _"Create a new branch for this commit and start a pull request."_
 
-Rename the branch **"add-my-name"**
+Rename the branch **add-my-name**
 
 Propose file change
 
-On top :arrow_up: click on the compare button near **"add-my-name"**
+On top :arrow_up: click on the compare button near **add-my-name**
 
-Add a title **"Add my name to README"**
+Add a title **Add my name to README**
 
-A short description of the change you made "Add my name, use emoji, create a branch & create a pull request"
+A short description of the change you made _Add my name, use emoji, create a branch & create a pull request_
 
 Create pull request
 
